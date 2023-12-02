@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fLImlgAayckP6vkKZSJlRAJCdBXu+ecFWcF1DwLfN4c=",
+  "Source": "DbContextInAnotherProject",
+  "BasePath": "_content/DbContextInAnotherProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
